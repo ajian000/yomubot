@@ -8,4 +8,5 @@
 
 [pupbot官网](https://www.pupbot.cn/develop/guide.html)
 [原项目地址](https://github.com/Pupbotjs)<br>
+[Node.js下载](https://nodejs.org/zh-cn/download)
 [问题反馈]<2050640359@qq.com>
