@@ -9,7 +9,6 @@
   pup init --force
   pup start
 ```
-<br>
 **建议注册一个小号来当not账号**<br>
 登陆协议请选择<em>安卓手表协议</em><br>
 <br>
