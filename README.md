@@ -4,11 +4,11 @@
 这是一个基于pupbot制作的bot，欢迎加qq**1470342589**体验<br>
 如需要自己做一个机器人请安装node.js后运行根目录下的run.bat<br>
 当然你也可以通过指令来安装
-{
+```
   npm i -g pupbot
   pup init --force
   pup start
-}<br>
+```<br>
 <br>
 **建议注册一个小号来当not账号**<br>
 登陆协议请选择<em>安卓手表协议</em><br>
