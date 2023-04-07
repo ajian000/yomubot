@@ -1,0 +1,1 @@
+require('@pupbot/core').start()
