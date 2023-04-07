@@ -6,4 +6,4 @@
 建议注册一个小号来当not账号<br>
 登陆协议请选择安卓手表协议<br>
 
-[pupbot官网](www.pupbot.cn)
+[pupbot官网](https://www.pupbot.cn/develop/guide.html)
