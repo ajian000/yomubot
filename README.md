@@ -7,5 +7,5 @@
 登陆协议请选择安卓手表协议<br>
 
 [pupbot官网](https://www.pupbot.cn/develop/guide.html)
-[原项目地址](https://github.com/Pupbotjs)
+[原项目地址](https://github.com/Pupbotjs)<br>
 [问题反馈]<2050640359@qq.com>
