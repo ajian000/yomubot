@@ -1,0 +1,22 @@
+{
+  "mode": "text",
+  "words": [
+    "小妖梦"
+  ],
+  "enableAt": true,
+  "enablePrivate": true,
+  "deplay": [
+    300,
+    3000
+  ],
+  "errorReply": "让小妖梦思考一下再给你答复吧",
+  "ignoreAdmin": true,
+  "ignoreGroups": [],
+  "ignoreFriends": [],
+  "ignoreWords": [
+    "#",
+    "/",
+    "自爆",
+    "同归于尽"
+  ]
+}

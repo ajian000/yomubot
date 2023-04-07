@@ -1,0 +1,21 @@
+[
+  {
+    "group": {
+      "for_all_groups": true,
+      "group_list": []
+    },
+    "private": {
+      "for_all_peo": true,
+      "peo_list": []
+    },
+    "keywordsList": [
+      {
+        "keywords": [
+          "哪有不疯的？硬撑罢了！"
+        ],
+        "answer": "别在这里发癫",
+        "fuzzy_matching": true
+      }
+    ]
+  }
+]

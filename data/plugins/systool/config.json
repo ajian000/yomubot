@@ -1,0 +1,35 @@
+{
+  "update-at-lasttime": false,
+  "start-time": true,
+  "latest-start-time": 1677995894021,
+  "commands": {
+    "cmd": [
+      "/cmd",
+      "/c"
+    ],
+    "reboot": [
+      "/reboot",
+      "/r"
+    ],
+    "alias": [
+      "/alias",
+      "/a",
+      "/unalias",
+      "/ua"
+    ],
+    "ip": [
+      "/ip"
+    ],
+    "about": [
+      "/关于",
+      "/sys",
+      "/systool"
+    ],
+    "ncmd": [
+      "/ncmd"
+    ]
+  },
+  "status": {
+    "ncmd": false
+  }
+}

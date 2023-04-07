@@ -1,0 +1,10 @@
+{
+  "apiKey": "",
+  "model": "gpt-3.5-turbo",
+  "cmdPrefix": "%",
+  "timeout": 10000,
+  "temperature": 0.3,
+  "max_tokens": 1200,
+  "enableAt": true,
+  "enableGroup": true
+}

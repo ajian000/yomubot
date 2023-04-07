@@ -1,0 +1,16 @@
+{
+  "cd": 30,
+  "cdmod": "wait",
+  "cdstring": "太...太快了",
+  "use-permisson": "all",
+  "recall-time": -1,
+  "random-api": [
+    "https://img.paulzzh.tech/touhou/random",
+    "https://img.paulzzh.tech/touhou/random",
+    "https://img.paulzzh.tech/touhou/random",
+    "https://img.paulzzh.tech/touhou/random"
+  ],
+  "command": [
+    "来张涩图"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "group": [
+    1
+  ],
+  "noMatch": [
+    "打断复读",
+    "漂流瓶",
+    "欢迎",
+    "欢迎新人"
+  ],
+  "rereadNum": 2,
+  "rereadBreak": 5,
+  "breakMsg": "打断复读"
+}

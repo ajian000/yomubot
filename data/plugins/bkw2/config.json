@@ -1,0 +1,44 @@
+{
+  "keywords": {
+    "locals": {},
+    "groups": {},
+    "privates": {},
+    "global": {}
+  },
+  "config": {
+    "updated": {
+      "status": false,
+      "successed": 0,
+      "msg": "",
+      "latest": "0.1.15"
+    },
+    "lang": "zh-cn",
+    "server": {
+      "host": "0.0.0.0",
+      "port": 7070
+    }
+  },
+  "commands": {
+    "bkw2": {
+      "permission": "admins",
+      "value": [
+        "/bkw2",
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "update": {
+      "permission": "admins",
+      "value": [
+        "/bkw2update",
+        "/bkw2up",
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  }
+}
