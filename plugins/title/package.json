@@ -1,0 +1,15 @@
+{
+  "name": "pupbot-plugin-title",
+  "version": "1.0.2",
+  "description": "QQ 机器人框架Pupbot的 我要头衔 插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pupbot",
+    "pupbot-plugin"
+  ],
+  "author": "dogxi",
+  "license": "ISC"
+}

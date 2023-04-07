@@ -1,0 +1,34 @@
+{
+  "name": "pupbot-plugin-og",
+  "version": "1.0.5",
+  "description": "og 图插件，检测网站（B 站, GitHub 等）链接自动发送 og 社交分享图",
+  "main": "lib/index.js",
+  "author": "Viki <hi@viki.moe> (https://github.com/vikiboss)",
+  "scripts": {
+    "dev": "tsc && (concurrently \"tsc -w\" \"tsc-alias -w\")",
+    "build": "tsc && tsc-alias",
+    "test": "ava",
+    "clean": "rimraf lib",
+    "release": "npm run clean && npm run build && npm publish"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "pupbot",
+    "pupbot-plugin"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@pupbot/core": "latest",
+    "@types/node": "^18.11.13",
+    "ava": "^5.1.0",
+    "concurrently": "^7.6.0",
+    "rimraf": "^3.0.2",
+    "tsc-alias": "^1.8.1",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "pupbot-plugin-weather",
+  "version": "1.1.3",
+  "description": "天气插件，支持查询国内外各大城市当天基本天气信息，数据来源于中国气象局",
+  "main": "lib/index.js",
+  "author": "Viki",
+  "scripts": {
+    "dev": "tsc && (concurrently \"tsc -w\" \"tsc-alias -w\")",
+    "build": "tsc && tsc-alias",
+    "test": "ava",
+    "clean": "rimraf lib",
+    "release": "npm run clean && npm run build && npm publish"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "pupbot",
+    "pupbot-plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^20.0.3"
+  },
+  "devDependencies": {
+    "@pupbot/core": "latest",
+    "@types/node": "^18.11.13",
+    "ava": "^5.1.0",
+    "concurrently": "^7.6.0",
+    "rimraf": "^3.0.2",
+    "tsc-alias": "^1.8.1",
+    "typescript": "^4.9.3"
+  }
+}
