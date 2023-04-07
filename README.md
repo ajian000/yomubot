@@ -5,3 +5,5 @@
 如需要自己做一个机器人请安装node.js后运行根目录下的run.bat<br>
 建议注册一个小号来当not账号<br>
 登陆协议请选择安卓手表协议<br>
+
+[pupbot官网](www.pupbot.cn)
