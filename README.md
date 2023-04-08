@@ -12,6 +12,7 @@
 **建议注册一个小号来当not账号**<br>
 登陆协议请选择<em>安卓手表协议</em><br>
 <br>
+##相关链接
 [pupbot官网](https://www.pupbot.cn/develop/guide.html)
 [原项目地址](https://github.com/Pupbotjs)<br>
 [Node.js下载](https://nodejs.org/zh-cn/download)<br>
