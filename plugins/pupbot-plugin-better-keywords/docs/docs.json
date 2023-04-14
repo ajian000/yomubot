@@ -1,0 +1,15 @@
+{
+    "commands": {
+        "bkw": {
+            "header": "〓 ${plugin.name} 〓",
+            "help": "帮助菜单\n\t/bkw add <keyword> <info> [permissonGroup] [valueType] -> 增加自定义回复\n\t/bkw rm <keyword> [permissonGroup]-> 删除自定义回复\n\tpermissonGroup: 不填 -> 当前群聊, g -> 所有群聊, gf -> 所有群聊和私信, f -> 所有私信(*不区分大小写)\n\tvalueType: 不填/text -> 仅文本, codefile/jsfile/f/jsf -> js脚本文件(*不区分大小写)\n注意: permissonGroup必须在valueType之前, 在脚本模式时, info为js脚本相对于机器人根目录的路径, 脚本最后记得module.exports = { main }\n本插件会自动调用脚本main函数并以其返回值为消息内容",
+            "error": "运行发生错误: ${errorStr}",
+            "warning": "警告: ${errorStr}",
+            "noPermisson": "对于修改keywords, 您没有足够的权限",
+            "addSuccess": "\"${keyname}\"(权限组: ${permissonGroup}, 回复类型: ${replyType})添加成功",
+            "rmSuccess": "\"${keyname}\"(权限组: ${permissonGroup})移除成功"
+        }
+    },
+    "about": "感谢您使用${plugin.name}, 该插件用于提升keyword功能, 固取名为${plugin.name}\n作者: 爱喝牛奶の涛哥, 当前版本: ${plugin.version}\n开源地址: \n\thttps://github.com/zhuhansan666/pupbot-plugin-better-keywords\n\thttps://www.npmjs.com/package/pupbot-plugin-better-keywords\n您还可以去github下载适用于本插件的js脚本\n\thttps://github.com/zhuhansan666/better-keywords-scripts",
+    "delay": 700
+}

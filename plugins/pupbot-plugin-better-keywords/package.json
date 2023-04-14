@@ -1,0 +1,22 @@
+{
+    "name": "pupbot-plugin-better-keywords",
+    "version": "1.4.1",
+    "description": "更好的关键词回复",
+    "main": "index.js",
+    "scripts": {
+        "test": "index.js"
+    },
+    "keywords": [
+        "setu",
+        "node.js",
+        "javascript",
+        "pup",
+        "pupbot"
+    ],
+    "author": "爱喝牛奶の涛哥",
+    "license": "AGPL-3.0-or-later",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhuhansan666/pupbot-plugin-better-keywords.git"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "pupbot-plugin-random-image",
+    "version": "0.1.6",
+    "description": "二次元/三次元美图随机发送",
+    "main": "index.js",
+    "scripts": {
+        "test": "index.js"
+    },
+    "keywords": [
+        "random-image",
+        "random",
+        "image",
+        "node.js",
+        "javascript",
+        "pup",
+        "pupbot"
+    ],
+    "author": "爱喝牛奶の涛哥",
+    "license": "AGPL-3.0-or-later",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhuhansan666/pupbot-plugin-random-image.git"
+    }
+}

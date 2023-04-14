@@ -1,0 +1,13 @@
+{
+    "name": "pupbot-plugin-reread",
+    "version": "2.0.0",
+    "description": "复读和打断复读插件",
+    "main": "index.js",
+    "keywords": [
+        "pupbot-plugin",
+        "pupbot",
+        "reread"
+    ],
+    "author": "Truraly",
+    "license": "TIM"
+}

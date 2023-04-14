@@ -1,0 +1,15 @@
+{
+    "name": "pupbot-plugin-ty_poke",
+    "version": "1.0.0",
+    "description": "回复戳一戳",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "pupbot-plugin",
+        "pupbot"
+    ],
+    "author": "Truraly",
+    "license": "TIM"
+}

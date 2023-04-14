@@ -1,0 +1,16 @@
+{
+    "name": "pupbot-plugin-mryt",
+    "version": "1.1.0",
+    "description": "前端每日一题",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "pupbot-plugin",
+        "pupbot",
+        "前端"
+    ],
+    "author": "Truraly",
+    "license": "MIT"
+}

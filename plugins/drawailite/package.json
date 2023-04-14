@@ -1,0 +1,11 @@
+{
+  "name": "pupbot-plugin-drawailite",
+  "version": "1.0.2",
+  "description": "pupbot绘画插件，发送约稿约稿+英文关键词",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "",
+  "license": ""
+}
