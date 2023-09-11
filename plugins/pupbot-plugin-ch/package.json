@@ -1,0 +1,13 @@
+{
+    "name": "pupbot-plugin-ch",
+    "version": "1.2.1",
+    "description": "pupbot撤回自己的消息",
+    "main": "index.js",
+    "keywords": [
+        "pupbot",
+        "pupbot-plugin",
+        "撤回"
+    ],
+    "author": "Truraly",
+    "license": "MIT"
+}

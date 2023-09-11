@@ -1,5 +1,5 @@
 {
-  "cd": 30,
+  "cd": 1,
   "cdmod": "wait",
   "cdstring": "太...太快了",
   "use-permisson": "all",
@@ -11,6 +11,7 @@
     "https://img.paulzzh.tech/touhou/random"
   ],
   "command": [
-    "来张涩图"
+    "来张涩图",
+    "来张色图"
   ]
 }

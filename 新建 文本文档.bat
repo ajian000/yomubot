@@ -1,0 +1,2 @@
+pup init
+pause

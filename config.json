@@ -1,0 +1,64 @@
+{
+  "account": 1470342589,
+  "login_mode": "qrcode",
+  "device_mode": "sms",
+  "message_mode": "short",
+  "password": "",
+  "log_level": "info",
+  "admins": [
+    2050640359
+  ],
+  "plugins": [
+    "random-image",
+    "title",
+    "ty_poke",
+    "youdao",
+    "autuaswer",
+    "blhxHelp",
+    "caiquan1",
+    "drift",
+    "group-manage",
+    "jrcp",
+    "keyword_easy",
+    "kuaqvnliaotian",
+    "mryt",
+    "ch",
+    "random_event",
+    "randomNumber",
+    "reread",
+    "soutu",
+    "test",
+    "time",
+    "zizhuwenda"
+  ],
+  "notice": {
+    "enable": true,
+    "friend": {
+      "request": {
+        "enable": true,
+        "action": "ignore"
+      },
+      "increase": true,
+      "decrease": true,
+      "message": false
+    },
+    "group": {
+      "request": {
+        "enable": true,
+        "action": "ignore"
+      },
+      "increase": true,
+      "decrease": true,
+      "ban": true,
+      "admin": true,
+      "transfer": true
+    }
+  },
+  "oicq_config": {
+    "platform": 3,
+    "data_dir": "E:\\bot框架\\data\\oicq",
+    "log_level": "info",
+    "ffmpeg_path": "ffmpeg",
+    "ffprobe_path": "ffprobe"
+  }
+}

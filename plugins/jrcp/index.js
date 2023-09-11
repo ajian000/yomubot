@@ -19,21 +19,26 @@ let data_json = {
     })
 })
 */
+
 plugin.onMounted((bot) => {
     plugin.saveConfig(Object.assign(data_json, plugin.loadConfig()))
+
     data_json = plugin.loadConfig()
 
     plugin.onMatch('jrcp', msg => {
-            //获取随机数
-            let n = Math.floor(Math.random() * data_json.msg.length)
-            //从json中读取文本
-            let str = data_json.msg[n]
-            //从json中读取图片链接
-            let img = segment.image(data_json.img[n])
-//            data_json.msg.splice(n, 1)
-//            plugin.saveConfig(data_json)//原插件中的保存数据方法,弃用
-            msg.reply([str,img], true)
-//            event.reply([str],true)
+ 
+        //获取随机数
+        let n = Math.floor(Math.random() * data_json.msg.length)
+        //从json中读取文本
+        let str = data_json.msg[n]
+        //从json中读取图片链接
+        let img = segment.image(data_json.img[n])
+//      data_json.msg.splice(n, 1)
+//      plugin.saveConfig(data_json)//原插件中的保存数据方法,弃用
+        msg.reply([str,img], true)
+//      event.reply([str],true)
+
+        }
     })
 })
 

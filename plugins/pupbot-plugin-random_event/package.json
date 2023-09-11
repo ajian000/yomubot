@@ -1,0 +1,13 @@
+{
+    "name": "pupbot-plugin-random_event",
+    "version": "1.1.0",
+    "description": "类D&D风格随机事件",
+    "main": "index.js",
+    "keywords": [
+        "pupbot-plugin",
+        "pupbot",
+        "D&D"
+    ],
+    "author": "Truraly",
+    "license": "TIM"
+}
